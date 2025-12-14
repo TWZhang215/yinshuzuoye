@@ -1,0 +1,4 @@
+numpy
+scipy
+# ffmpeg is required for WAV->MP3 conversion but is a system binary, not a Python package.
+# Install ffmpeg on your OS (e.g., apt install ffmpeg, brew install ffmpeg) if you want MP3 output.
